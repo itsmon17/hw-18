@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/https//itsmon17.github.io/hw-18/static/css/main.405804b7.css",
+    "main.js": "/https//itsmon17.github.io/hw-18/static/js/main.5542be12.js",
+    "index.html": "/https//itsmon17.github.io/hw-18/index.html",
+    "main.405804b7.css.map": "/https//itsmon17.github.io/hw-18/static/css/main.405804b7.css.map",
+    "main.5542be12.js.map": "/https//itsmon17.github.io/hw-18/static/js/main.5542be12.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.405804b7.css",
+    "static/js/main.5542be12.js"
+  ]
+}
